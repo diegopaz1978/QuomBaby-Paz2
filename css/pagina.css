@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: green
+}
+
+.card {
+    border: none;
+}
+.card-body {
+    padding: 0;
+}
+h3 {
+    font-size: 16px;
+}
+
+#portfolio img {
+
+    transition: all 0.5s
+}
+#portfolio img:hover {
+    transform: scale(1.2)
+}
+
+
+
+nav {
+background-color: rgb(21, 255, 0);
+}
